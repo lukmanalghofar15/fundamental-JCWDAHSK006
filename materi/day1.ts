@@ -161,7 +161,6 @@ console.log(Math.abs(-0.1)); // menghilangkan tanda negatif
 
 console.log(Math.random()); // menghasilkan angka random/acak antara 0 sampai 1
 
-console.log("hello")
 
 /*
 
