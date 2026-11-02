@@ -20,7 +20,7 @@ M --> Modified
 // 2. git commit -m "prefix: commit message"
 // 3. git push origin main
 
-// ==================================== WORKFLOW ===========================
+// ==================================== WORKFLOW GIT ===========================
 
 /*
 
