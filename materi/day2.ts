@@ -16,10 +16,6 @@ M --> Modified
 // check status: git status
 
 
-// 1. git add .
-// 2. git commit -m "prefix: commit message"
-// 3. git push origin main
-
 // ==================================== WORKFLOW GIT ===========================
 
 /*
@@ -33,6 +29,12 @@ WORKING DIRECTORY ---> STAGING AREA ---> REPOSITORY
 
 /*
 
-
+Repository Git Local ---> git push origin main ---> Repository Github
 
 */
+
+
+// ======================== STEP Saved Github ==============================
+// 1. git add .
+// 2. git commit -m "prefix: commit message"
+// 3. git push origin main
