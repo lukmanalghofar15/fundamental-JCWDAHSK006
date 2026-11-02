@@ -7,6 +7,7 @@ branch, clone, forks
 Lambang Git
 U --> untrack (tidak diketahui)
 A --> dikenali
+M --> Modified
 
 */
 
