@@ -47,6 +47,8 @@ Repository Git Local ---> git push origin main ---> Repository Github
 // 4. git commit -m "prefix: commit message"
 // 5. git push origin "branch name"
 
+// After Review, Pull ke repository local: git pull origin main
+
 /*
 develop --> feature --> Pull Request (code review) --> develop --> staging --> main
 */
