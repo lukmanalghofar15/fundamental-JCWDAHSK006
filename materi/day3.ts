@@ -26,3 +26,14 @@ A && B ---> A jika A falsy, B jika A truthy
 A || B ---> A jika A truthy, B jika A falsy
 
 */
+
+
+// =========================================== Loop Statements ===================================
+
+/*
+
+For Loop
+While Loop
+Do While Loop
+
+*/
